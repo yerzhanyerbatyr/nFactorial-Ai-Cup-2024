@@ -7,3 +7,4 @@ Template repository to start building your AI projects via nFactorial Ai Cup 202
 
 
 ## Typeform to submit:
+https://docs.google.com/forms/d/e/1FAIpQLSfjnACTWf5xYKInMllmhy5Bchc-DnOXw6vEXsHmXI4XFPwZXw/viewform?usp=sf_link
