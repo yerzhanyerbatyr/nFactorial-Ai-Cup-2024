@@ -1,5 +1,5 @@
 # nFactorial-Ai-Cup-2024
-Template repository to start building your AI projects via nFactorial Ai Cup 2024 
+Fork this repository and build nFactorial Ai Cup 2024 projects 
 
 ## < Your Name >
 
