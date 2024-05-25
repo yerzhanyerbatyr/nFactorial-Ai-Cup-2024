@@ -1,0 +1,37 @@
+/* components/Header.module.css */
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem 2rem;
+    background-color: #4c70af;
+    color: white;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  .logo {
+    font-size: 1.5rem;
+    font-weight: bold;
+  }
+  
+  .nav {
+    display: flex;
+    gap: 1rem;
+  }
+  
+  .navButton {
+    background-color: white;
+    color: #4c65af;
+    border: none;
+    padding: 0.5rem 1rem;
+    font-size: 1rem;
+    cursor: pointer;
+    border-radius: 4px;
+    transition: background-color 0.3s, color 0.3s;
+  }
+  
+  .navButton:hover {
+    background-color: #6245a0;
+    color: white;
+  }
+  
